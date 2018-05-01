@@ -1,7 +1,7 @@
 var r, g, b;
-var audio = new Audio('thespace/master/empty-example/fiction.mp3'); 
+var audio = new Audio('thespace/empty-example/fiction.mp3'); 
 audio.play(); //play the audio
-audio.loop = true;
+
 
 
 function setup(){	
