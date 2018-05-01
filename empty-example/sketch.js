@@ -1,5 +1,5 @@
 var r, g, b;
-var audio = new Audio('https://github.com/danielwithclover/thespace/blob/master/empty-example/fiction.mp3'); 
+var audio = new Audio("https://github.com/danielwithclover/thespace/blob/master/empty-example/fiction.mp3"); 
 audio.play(); //play the audio
 audio.loop = true;
 
