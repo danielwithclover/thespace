@@ -1,5 +1,5 @@
 var r, g, b;
-var audio = new Audio('music.mp3'); 
+var audio = new Audio('thespace/empty-example/music.MP3'); 
 audio.play(); //play the audio
 audio.loop = true;
 
