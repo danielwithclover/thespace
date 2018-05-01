@@ -1,8 +1,4 @@
 var r, g, b;
-var audio = new Audio('thespace/empty-example/fiction.mp3'); 
-audio.play(); //play the audio
-
-
 
 function setup(){	
   createCanvas(windowWidth, windowHeight, WEBGL); //create a canvas that can be adjustable
