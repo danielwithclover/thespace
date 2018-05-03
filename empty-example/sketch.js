@@ -1,4 +1,7 @@
 var r, g, b;
+var audio = new Audio('music.MP3'); 
+audio.play(); //play the audio
+audio.loop = true;
 
 function setup(){	
   createCanvas(windowWidth, windowHeight, WEBGL); //create a canvas that can be adjustable
